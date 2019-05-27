@@ -6,7 +6,7 @@
 package week1_beads;
 
 /**
- *
+ * This is the branch code for the beadset1 branch
  * @author AndyR
  */
 public class BeadsTester {
