@@ -14,6 +14,7 @@ public class Week1_Beads {
     /**
      * @param args the command line arguments
      */
+    // adding a comment for test
     private String color;
     private char letter;
     
@@ -22,6 +23,7 @@ public class Week1_Beads {
         color = "black";
         letter = 'b';
         //week1_Beads(String clr);
+       
     }
     /**
      * @return the color
